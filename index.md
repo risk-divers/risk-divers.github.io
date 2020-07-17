@@ -1,3 +1,0 @@
-Risk Divers
-
-Reading group
