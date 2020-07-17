@@ -1,1 +1,3 @@
-# risk-divers.github.io
+# Risk Divers
+
+Reading group
