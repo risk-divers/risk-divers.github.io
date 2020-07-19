@@ -1,5 +1,0 @@
-# Risk Divers
-
-Reading group
-
----
