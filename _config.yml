@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Risk Divers
 # description: Книжный клуб о финансах
-logo: /full-white.svg
+logo: ./square-white.svg
 
 is_project_page: false
