@@ -9,3 +9,4 @@ ____
 - [Обсуждения в Telegram](https://t.me/risk_divers) *(основной способ связи)*
 - [Новости в Telegram](https://t.me/risk_divers_official)
 - [Vk](https://vk.com/risk_divers)
+
