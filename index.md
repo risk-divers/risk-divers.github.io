@@ -1,6 +1,4 @@
-# Risk Divers
-
-Книжный клуб о финансах
+![Risk Divers](./full-white.svg)
 
 [Мероприятия в августе 2020](events/2020/august)
 
