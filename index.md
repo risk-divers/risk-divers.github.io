@@ -10,3 +10,4 @@ ____
 - [Новости в Telegram](https://t.me/risk_divers_official)
 - [Vk](https://vk.com/risk_divers)
 
+
